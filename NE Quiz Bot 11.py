@@ -1,8 +1,6 @@
 #region CUSTOMISATION
 
-TOKEN = "7825229101:AAE05RuZmVEhIGXNdTQh_IYwA6i3--RMwWc"
-#Test bot: 7511843239:AAGnd7fcEYmrhWqs1MnvD3EKm41VXK2YuI4
-# Real bot: 7825229101:AAE05RuZmVEhIGXNdTQh_IYwA6i3--RMwWc
+TOKEN = ""
 
 SEND_IMAGES = False
 IMAGE_FOLDER = "event_images"
@@ -38,23 +36,23 @@ ADMIN_CHAT_ID = -1002835681583
 #region CUSTOM DATA
 
 GROUP_CHAT_IDS_NUMBERS = {
-    "-1002821470426" : 1,
-    "-1002872717963" : 2,
-    "-1002737488073" : 3,
-    "-1002522472377" : 4,
-    "-1002810991483" : 5,
-    "-1002679223221" : 6,
-    "-1002696767672" : 7
+    "-" : 1,
+    "-" : 2,
+    "-" : 3,
+    "-" : 4,
+    "-" : 5,
+    "-" : 6,
+    "-" : 7
 }
 
 GROUP_LINKS = {
-    1: "https://t.me/+S3zxt1jmfStjNmU1",
-    2: "https://t.me/+Fjsz1QchQAtlMjM1",
-    3: "https://t.me/+bToLiWHt--wxMTc1",
-    4: "https://t.me/+cAHxW34NWeJlYTM1",
-    5: "https://t.me/+81FBcn2aJthkZDg1",
-    6: "https://t.me/+jSVX4yf7cK42MDBl",
-    7: "https://t.me/+hmKg-OFnoHw2ODI1"
+    1: "https://t.me/+",
+    2: "https://t.me/+",
+    3: "https://t.me/+",
+    4: "https://t.me/+",
+    5: "https://t.me/+",
+    6: "https://t.me/+",
+    7: "https://t.me/+"
 }
 
 OPTIONS = ["A", "B", "C", "D"]
